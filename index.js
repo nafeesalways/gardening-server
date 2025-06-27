@@ -89,7 +89,7 @@ async function run() {
       const newFeatured = req.body;
       const result = await gardenCollection.insertOne(newFeatured);
       res.send(result);
-    });
+    })
 
     app.get("/active-gardeners", async (req, res) => {
       try {
