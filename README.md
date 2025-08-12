@@ -28,7 +28,6 @@ This is the backend server for the **Gardening Community App**, designed to powe
 
 ![Gardening App Server Screenshot](https://images.unsplash.com/photo-1714890033484-3cda637ad0a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z2FyZGVuaW5nJTIwaHVifGVufDB8fDB8fHww)
 
-> Example: Server running locally with `/api/tips` endpoint in Postman or browser.
 
 ---
 
